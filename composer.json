@@ -1,0 +1,7 @@
+{
+    "name": "lewestopher/ratelimiter",
+    "description": "A sweet, simple PHP class for rate limiting API requests.",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
